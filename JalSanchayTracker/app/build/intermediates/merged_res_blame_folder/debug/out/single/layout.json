@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/item_history.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_entry.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_entry.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_setup.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_report.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_home.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_history.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_splash.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/fragment_tips.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-mergeDebugResources-3:/layout/item_tip.xml",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/item_tip.xml"
+    }
+]

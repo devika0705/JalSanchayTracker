@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_entry.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_entry.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_home.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_item_history.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_splash.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/navigation_nav_graph.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/drawable_circle_shape.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_tips.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/drawable_circular_progress.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/drawable/circular_progress.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_item_tip.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/item_tip.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_setup.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_report.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.jalsanchaytracker.app-merged_res-4:/layout_fragment_history.xml.flat",
+        "source": "com.example.jalsanchaytracker.app-main-6:/layout/fragment_history.xml"
+    }
+]
